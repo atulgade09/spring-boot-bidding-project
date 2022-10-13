@@ -12,8 +12,9 @@ public class Bidder {
 	private int bidAmount;
 	private int workRange;
 	private int bidId;
-	private String name;
 	private String email;
+	private String name;
+	
 public int getBidderId() {
 		return bidderId;
 	}
