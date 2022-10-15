@@ -474,7 +474,7 @@ body {
 						</div>
 					</div>
 				</div>
-				<div id="" class="">
+				<div id="" class="overflow-scroll">
 					<table class="table table-striped table-hover fs-6 text-center">
 						<thead>
 							<tr class="fs-6">
